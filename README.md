@@ -1,6 +1,6 @@
-# UI Clone - Twitter
+# Clone Drag n' Drop - Pipefy
 
-Este projeto foi desenvolvido para fins de estudo, o projeto trata-se de um clone da interface da rede social Twitter contando com responsividade e tecnologias atuais. A vídeo aula foi publicada pela [Rocketseat](https://www.youtube.com/watch?v=awRtgpRsdTQ&t=3726s)
+Este projeto foi desenvolvido para fins de estudo, o projeto trata-se de um clone da utilidade de drag n' drop do site Pipefy para Desktop contando com responsividade e tecnologias atuais. A vídeo aula foi publicada pela [Rocketseat](https://www.youtube.com/watch?v=awRtgpRsdTQ&t=3726s)
 
 [Deploy Here](https://bit.ly/pipefy-clone-drag)
 
